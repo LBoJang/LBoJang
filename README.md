@@ -9,7 +9,7 @@ I'm a recent graduate with a passion for turning data into actionable insights. 
 ### 🚀 Quick Facts
 
 - 🎓 Recent graduate in Information Technology Management  from Western Governors University
-- 💼 6 months experience as a Data Analyst at Mansah Technologies
+- 💼 6 months experience as a Data Analyst/Engineer
 - 🌱 Currently learning advanced SQL and machine learning techniques
 - 🔍 Seeking opportunities to apply and expand my data analysis skills
 
@@ -39,7 +39,6 @@ I'm a recent graduate with a passion for turning data into actionable insights. 
 
 ### 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile URL]
 - Email: your.email@example.com
 
 Always open to collaborating on interesting data projects or discussing data analysis techniques!
